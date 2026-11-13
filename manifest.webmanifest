@@ -1,0 +1,16 @@
+{
+  "name": "喵喵茶馆 Miao Miao Teahouse",
+  "short_name": "喵喵茶馆",
+  "description": "A cozy pixel teahouse game for learning beginner Chinese. English and Español.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6b3d24",
+  "theme_color": "#6b3d24",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
